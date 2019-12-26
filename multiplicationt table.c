@@ -4,7 +4,7 @@
 
 int main()
 {
-    int i,j; //i = columns -- j = lines
+    int i,j; //i = columns -- j = rows
 
 
     for (i=0;i<10;i++) {
